@@ -1,0 +1,6 @@
+﻿<Window x:Class="SmartFitnessTrainer.GuiLayer.CreateTrainingProgramWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CreateTrainingProgramWindow" Width="640" Height="480">
+    <Grid/>
+</Window>
